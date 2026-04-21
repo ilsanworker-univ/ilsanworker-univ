@@ -1,26 +1,27 @@
-<!-- 🔥 MINIMAL HEADER -->
+<!-- 🔥 NETFLIX STYLE INTRO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&section=header&text=Seongbin%20Lee&fontSize=40&fontColor=222222"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=Seongbeen&fontSize=60&fontColor=000000&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>AI · Computer Vision · Web</b><br/>
-  <sub>Build things that actually work.</sub>
+  <b style="font-size:18px;">ilsanoppa</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ID">
-    <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <sub>
+    Juyeop High School Graduate<br/>
+    Hanshin University · SWAI Major · 1st Year<br/>
+    Goyang, Gyeonggi-do, South Korea
+  </sub>
 </p>
 
 ---
 
 ## About
 
-- Software Engineer 지향  
-- AI 기반 **이륜차 위반 탐지 시스템** 개발 목표  
-- 효율, 실행력, 결과 중심  
+- AI · Computer Vision · Web  
+- 현실 문제 해결 중심 개발  
+- 실행력 기반 프로젝트 진행  
 
 ---
 
@@ -33,7 +34,7 @@
 </p>
 
 - Computer Vision 기반 위반 탐지  
-- 실제 환경 적용 목표  
+- 실제 도로 환경 적용 목표  
 
 ---
 
@@ -44,7 +45,7 @@
 </p>
 
 - 웹 기반 실시간 번역  
-- iPhone 사용 가능  
+- 모바일 최적화  
 
 ---
 
@@ -52,15 +53,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,git" />
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=default" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=default" width="48%">
 </p>
 
 ---
