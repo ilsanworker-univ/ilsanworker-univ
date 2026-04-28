@@ -1,6 +1,6 @@
 <!-- 🔥 HERO IMAGE (21:9) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1280x540" width="100%" />
+  <img src="mainwhite.png" width="100%" />
 </p>
 
 <!-- 🔥 NETFLIX STYLE INTRO -->
