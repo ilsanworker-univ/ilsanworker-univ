@@ -1,10 +1,15 @@
+<!-- 🔥 HERO IMAGE (21:9) -->
+<p align="center">
+  <img src="https://via.placeholder.com/1280x540" width="100%" />
+</p>
+
 <!-- 🔥 NETFLIX STYLE INTRO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=Seongbeen&fontSize=60&fontColor=000000&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b style="font-size:18px;">ilsanoppa</b>
+  <p><b style="font-size:18px;">ilsanoppa</b></p>
 </p>
 
 <p align="center">
@@ -17,7 +22,7 @@
 
 ---
 
-## About
+## 🚀 About
 
 - AI · Computer Vision · Web  
 - 현실 문제 해결 중심 개발  
@@ -25,12 +30,12 @@
 
 ---
 
-## Projects
+## 🧠 Projects
 
-### Motorcycle Violation Detection
+### 🏍️ Motorcycle Violation Detection
 
 <p align="center">
-  <img src="./images/motorcycle.png" width="75%">
+  <img src="./images/motorcycle.png" width="80%">
 </p>
 
 - Computer Vision 기반 위반 탐지  
@@ -38,10 +43,10 @@
 
 ---
 
-### Real-time Translator
+### 🌐 Real-time Translator
 
 <p align="center">
-  <img src="./images/translator.png" width="75%">
+  <img src="./images/translator.png" width="80%">
 </p>
 
 - 웹 기반 실시간 번역  
@@ -49,7 +54,7 @@
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,git" />
@@ -57,7 +62,7 @@
 
 ---
 
-## Contact
+## 📫 Contact
 
 <p align="center">
   your_email@example.com <br/>
