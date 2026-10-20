@@ -1,9 +1,8 @@
-<!-- 🔥 HERO IMAGE (21:9) -->
+
 <p align="center">
   <img src="mainwhite.png" width="100%" />
 </p>
 
-<!-- 🔥 NETFLIX STYLE INTRO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=Seongbeen&fontSize=60&fontColor=000000&animation=fadeIn"/>
 </p>
