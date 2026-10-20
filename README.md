@@ -2,10 +2,6 @@
 <p align="center">
   <img src="mainwhite.png" width="100%" />
 </p>
-<!-- 🔥 HERO IMAGE (21:9) -->
-<p align="center">
-  <img src="main2.png" width="100%" />
-</p>
 
 <!-- 🔥 NETFLIX STYLE INTRO -->
 <p align="center">
